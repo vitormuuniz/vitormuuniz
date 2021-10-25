@@ -7,7 +7,7 @@
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="vmz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="vmz-React" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
+    <img align="center" alt="vmz-React" height="30" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
     <img align="center" alt="vmz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="vmz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
